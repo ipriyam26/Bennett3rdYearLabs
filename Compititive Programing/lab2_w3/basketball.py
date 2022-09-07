@@ -1,9 +1,24 @@
-# You have been appointed as a coach of Bennett Basketball team. Your task is to select players in your team. You believe that short-height student plays better than the tall student.
+# # You are given a array of elements you can pick an element if it less than its neighbours, you can rearrange the array as you want find the maximum number of elements you can pick
 
-# All the students are standing in a line, you think a student is short if he/she is shorter than both of his/her neighbors. First and last student is not short at all. You will select all short students for your team.
+# from collections import defaultdict
 
-# Find the maximum number of students that you can select in your team. You can reorder the students in a line as you wish.  
 
-n = int(input())
-heights = [int(element) for element in input().split()]
+# # n = int(input())
+# ans = "1 3 2 2 4 5 4"
+# arr = list(map(int, ans.split()))
 
+# arr = sorted(arr)
+# hash_table = {}
+# for i in arr:
+#     if i in hash_table:
+#         hash_table[i] += 1
+#     hash_table[i] = 1
+# result=[]
+# i =len(hash_table)-1
+# j=0
+# count=0
+# while i>=0:
+    
+    
+    
+    
