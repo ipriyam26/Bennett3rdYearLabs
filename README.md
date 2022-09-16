@@ -15,9 +15,7 @@
 
 Feel Free To Take and share
 
-<span style="color:red;font-weight:700;font-size:30px">
-    SARTHAK NOT ALLOWED
-</span>
+## SARTHAK NOT ALLOWED
 
 
 PS: ***Please don't be dumb and change name atleast***
