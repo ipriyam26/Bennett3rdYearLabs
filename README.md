@@ -1,3 +1,6 @@
+
+![Alt Text](https://media.giphy.com/media/ZL46MLwEe4ZIEvk9Ek/giphy.gif)
+
 # Labs-3rd-Year-DS
 
 ## BKL STAR KARDO KAM SA KAM
@@ -14,8 +17,6 @@
 6. AIML
 
 Feel Free To Take and share
-![Alt Text](https://media.giphy.com/media/ZL46MLwEe4ZIEvk9Ek/giphy.gif)
-
 
 
 PS: ***Please don't be dumb and change name atleast***
