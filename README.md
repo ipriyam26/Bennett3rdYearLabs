@@ -14,8 +14,7 @@
 6. AIML
 
 Feel Free To Take and share
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="on9QQA8"><a href="https://imgur.com/on9QQA8">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Alt Text](https://media.giphy.com/media/ZL46MLwEe4ZIEvk9Ek/giphy.gif)
 
 
 
